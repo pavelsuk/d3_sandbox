@@ -303,7 +303,8 @@
     {
      "name": "legend",
      "children": [
-      {"name": "Legend", "size": 20859},
+      {"name": "Legend", "size": 50859},
+          {"name": "Legend20", "size": 50859},
       {"name": "LegendItem", "size": 4614},
       {"name": "LegendRange", "size": 10530}
      ]
